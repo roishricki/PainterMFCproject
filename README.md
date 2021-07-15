@@ -1,4 +1,4 @@
-# Painter MFC project
+# MFC Painter Project
 
 Object Oriented Programming project in a visual studio environment using the MFC library.
 
