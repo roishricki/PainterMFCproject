@@ -2,7 +2,7 @@
 
 Object Oriented Programming project in a visual studio environment using the MFC library.
 
-The painter abilities are:
+Features :
 
 1) Save File.
 
